@@ -28,6 +28,7 @@ flowchart LR
     end
     
     H -->|Wi-Fi HTTP GET| I[(ThingSpeak Dashboard)]
+```
 
 ## Hardware Setup
 * **Microcontroller:** ESP8266 NodeMCU 1.0 (ESP-12E) running at 80 MHz[cite: 1].  
